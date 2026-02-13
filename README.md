@@ -11,7 +11,7 @@
 
 ### Contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&color=00d9ff&line=00d9ff&point=00d9ff" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Guss2618&theme=react-dark&hide_border=true&color=00d9ff&line=00d9ff&point=00d9ff" width="100%"/>
 
 ---
 
