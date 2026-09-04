@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/gustavo-silva-de-sordi-2b845a349/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMGgtMy4xNTV2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5VjIwSDkuODQ3VjguOTk5aDMuMDI2VjEwLjV2LjQ1NmguMDQ0Yy40MjItLjc5OSAxLjQ1LTEuNjQgMi45ODYtMS42NCAzLjE5NCAwIDMuNzgyIDIuMTAxIDMuNzgyIDQuODMzVjIwek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNTgyIDEyLjU2N0gzLjc1M1Y4Ljk5OWgzLjE2NlYyMHptMTQuOTc1LTIwSDEuNjk3Qy43OSAwIDAgMS4yMjUgMCAyLjc0djE4LjUyQzAgMjIuNzc1Ljc5IDI0IDEuNjk3IDI0aDIwLjE5N0MyMy4xIDI0IDI0IDIyLjc3NSAyNCAyMS4yOFYyLjc0QzI0IDEuMjI1IDIzLjEgMCAyMS44OTIgMHoiLz48L3N2Zz4=" alt="LinkedIn"/>
   </a>
 </p>
 
