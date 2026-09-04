@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Seja+muito+bem+vindo+(%EF%BF%A3%E2%96%BD%EF%BF%A3)%22;Meu+nome+%C3%A9+Gustavo+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Seja+muito+bem+vindo+(%EF%BF%A3%E2%96%BD%EF%BF%A3)%22;Meu+nome+%C3%A9+Gustavo" alt="Typing SVG" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo__sordi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-silva-de-sordi-2b845a349/)
@@ -11,7 +11,7 @@
 
 ### Contribuições
 
-<img src="https://ghchart.rshah.org/00d9ff/Guss2618" width="100%" alt="Gráfico de contribuições"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guss2618&bg_color=0d1117&color=8b949e&line=00d9ff&point=00d9ff&area=true&area_color=00d9ff&hide_border=true" width="100%" alt="Gráfico de contribuições"/>
 
 ---
 
