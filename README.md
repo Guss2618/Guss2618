@@ -11,7 +11,8 @@
 
 ### Contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guss2618&bg_color=0d1117&color=8b949e&line=00d9ff&point=00d9ff&area=true&area_color=00d9ff&hide_border=true" width="100%" alt="Gráfico de contribuições"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Guss2618&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Guss2618&theme=dark&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165"/>
 
 ---
 
